@@ -1,9 +1,11 @@
-const CACHE_NAME = "pink-schedule-news-v1";
+const CACHE_NAME = "pink-schedule-news-v2";
 const APP_ASSETS = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./favicon.svg",
+  "./assets/app-icon-180.png",
+  "./assets/app-icon-192.png",
+  "./assets/app-icon-512.png",
   "./assets/hello-kitty-paper.png"
 ];
 
