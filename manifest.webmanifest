@@ -1,0 +1,19 @@
+{
+  "name": "粉桃课表·新闻",
+  "short_name": "粉桃课表",
+  "description": "支持单双周、展开课程详情与每周作业备注的新闻学课程表",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fa",
+  "theme_color": "#d65b7f",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
