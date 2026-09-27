@@ -1,4 +1,4 @@
-const CACHE_NAME = "pink-schedule-news-v4";
+const CACHE_NAME = "pink-schedule-news-v5";
 const APP_ASSETS = [
   "./",
   "./index.html",
